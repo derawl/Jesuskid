@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Smart contract projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Python
-- 📫 How to reach me: (Twiiter)[]
+- 📫 How to reach me: [Portfolio](http://portfolio.derawllings.com/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an accountant too!!
