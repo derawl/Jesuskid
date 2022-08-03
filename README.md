@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Portfolio](http://portfolio.derawllings.com/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an accountant too!!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jesuskid)](https://github.com/ryo-ma/github-profile-trophy)
