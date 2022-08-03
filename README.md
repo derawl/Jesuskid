@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an accountant too!!
 
-(https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jesuskid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
