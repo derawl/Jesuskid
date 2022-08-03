@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jesuskid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jesuskid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
