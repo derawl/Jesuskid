@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am an accountant too!!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jesuskid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jesuskid)](https://github.com/ashutosh00710/github-readme-activity-graph)
