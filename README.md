@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an accountant too!!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jesuskid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jesuskid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
